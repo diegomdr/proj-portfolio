@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fa",
+				"fa-chevron-up"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"anima",
+				"animation-iteration-count"
+			],
+			[
+				"le",
+				"lead-down"
+			],
+			[
+				"lea",
+				"lead-down"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"l",
+				"lead-down"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"animain",
+				"animation-iteration-count"
+			],
+			[
+				"conta",
+				"contact"
+			],
+			[
+				"proj",
+				"projects"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"tex",
+				"text-rendering"
+			],
+			[
+				"col",
+				"col-sm-2"
+			],
+			[
+				"co",
+				"copyright"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"panto",
+				"padding-top"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"con",
+				"contact-form"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"a",
+				"action"
+			],
+			[
+				"bro",
+				"border"
+			],
+			[
+				"projec",
+				"project-info"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"ba",
+				"background-alt"
+			],
+			[
+				"edu",
+				"education-block"
+			],
+			[
+				"fonts",
+				"font-stretch"
+			],
+			[
+				"fonvar",
+				"font-variant-east-asian"
+			],
+			[
+				"te",
+				"text-rendering"
+			],
+			[
+				"lin",
+				"linear-gradient()"
+			],
+			[
+				"exp",
+				"experience-timeline"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"vtimeline",
+				"vtimeline-content"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bobo",
+				"border-bottom"
+			],
+			[
+				"borwi",
+				"border-width"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"margiin",
+				"margin-inline-start"
+			],
+			[
+				"maren",
+				"margin-block-end"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"baco",
+				"background-color"
+			],
+			[
+				"mato",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"mab",
+				"margin-bottom"
+			],
+			[
+				"let",
+				"letter-spacing"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"head",
+				"header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"sublime.log_commands(true)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/micha/AppData/Roaming/Sublime Text/Packages/User/style.css",
+		"/C/Users/micha/AppData/Roaming/Sublime Text/Packages/User/project.jpg",
+		"/C/Users/micha/AppData/Roaming/Sublime Text/Packages/User/font-awesome-4.7.0.zip"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "potifolio.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
