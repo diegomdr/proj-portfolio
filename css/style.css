@@ -56,7 +56,7 @@ header a:hover {
 	height: 100vh;
 	min-height: 500px;
 	max-height: 1080px;
-	background-image: url('C:\\Users\\micha\\AppData\\Roaming\\Sublime Text\\Packages\\User\\proj-portfolio\\images\\fundo.jpg');
+	background-image: url('../images/fundo.jpg');
 	padding: 15px;
 	overflow: hidden;
 	background-size: cover;
