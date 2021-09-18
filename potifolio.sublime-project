@@ -1,8 +1,14 @@
 {
-	"folders":
+	/*"folders":
 	[
 		{
 			"path": "."
 		}
-	]
+	]*/
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\micha\\AppData\\Roaming\\Sublime Text\\Packages\\User\\proj-vanessa"
+		}
+	],
 }
